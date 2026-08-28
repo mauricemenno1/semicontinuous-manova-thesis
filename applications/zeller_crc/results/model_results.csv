@@ -1,0 +1,3 @@
+model,missing_model,n,p,group_sizes,B,p_value,statistic,lambda,lambda0,retained_gaussian_features,removed_gaussian_features
+scMAN-MV,multivariate_bernoulli,141,368,88;53,199,0.945,76.0184297490632,4.94876300084263,4.94876300037373,265,103
+scMAN-Bernoulli,bernoulli,141,368,88;53,199,0.005,719.86248553425,4.94876300086351,4.94876300035271,265,103

@@ -1,0 +1,8 @@
+step,count
+original_features,1754
+removed_unmapped,1
+after_unmapped_removal,1753
+removed_all_zero,971
+after_all_zero_removal,782
+removed_by_prevalence_filter,414
+final_features,368

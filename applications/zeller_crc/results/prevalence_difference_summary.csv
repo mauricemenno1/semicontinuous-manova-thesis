@@ -1,0 +1,7 @@
+"metric","value"
+"mean_abs_prevalence_difference",0.0642706158177344
+"median_abs_prevalence_difference",0.0484562607204116
+"max_abs_prevalence_difference",0.4676243567753
+"features_abs_diff_gt_0.10",75
+"features_abs_diff_gt_0.20",7
+"features_abs_diff_gt_0.30",3

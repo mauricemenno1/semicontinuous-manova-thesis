@@ -1,0 +1,3 @@
+"group","n","p","overall_zero_fraction","overall_positive_fraction","median_feature_zero_fraction","median_sample_zero_fraction","median_positive_count","mean_positive_count"
+"CTR",88,368,0.584270009881423,0.415729990118577,0.704545454545455,0.580163043478261,154.5,152.988636363636
+"CRC",53,368,0.585982362592289,0.414017637407711,0.669811320754717,0.578804347826087,155,152.358490566038
