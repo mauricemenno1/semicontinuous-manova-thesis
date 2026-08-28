@@ -1,0 +1,17 @@
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+Thumbs.db
+*.Rout
+*.Rproj
+
+# Large/restartable Monte Carlo output is not versioned by default.
+simulations/*/results/raw/
+simulations/*/checkpoints/
+
+# Re-created from the public SIAMCAT Zeller dataset.
+applications/zeller_crc/results/prepared_data.rds
+
+# Restartable intermediate data for the power-loss diagnostic.
+figures/results/
