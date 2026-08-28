@@ -1,0 +1,5 @@
+Method,Scenario,n,p,rejection_proportion,mean_lambda,mean_lambda0
+scMAN-exc,H0,10,339,0.051,5.08,5.08
+scMAN-exc,H1,10,339,0.874,5.1,5.1
+scMAN-ind,H0,10,339,0.054,5.08,5.08
+scMAN-ind,H1,10,339,0.954,5.1,5.1

@@ -1,0 +1,5 @@
+"Model","Scenario","n","p","rejPERM","n_simEnded","meanDim","meanDim0","meanLambda","meanLambda0"
+"Original multiv. Bernoulli","$H_0$",10,339,0.051,1000,251.74,251.74,5.08,5.08
+"Original multiv. Bernoulli","$H_1$",10,339,0.874,1000,261.01,261.01,5.1,5.1
+"Independent Bernoulli (intermediate)","$H_0$",10,339,0.054,1000,251.74,251.74,5.08,5.08
+"Independent Bernoulli (intermediate)","$H_1$",10,339,0.954,1000,261.01,261.01,5.1,5.1
